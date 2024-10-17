@@ -1,0 +1,33 @@
+.cardContainer {
+  width: 300px;
+  background-color: rgb(138, 43, 226);
+  border-radius: 8px;
+  padding-top: 10px;
+  margin-left: 20px;
+  height: fit-content;
+  margin-left: auto;
+}
+.card {
+  display: flex;
+  background-color: rgb(172, 98, 241);
+  margin: 5px;
+  list-style: none;
+  border-radius: 5px;
+  padding: 8px;
+  align-items: center;
+}
+.card img {
+  width: 40px;
+  border-radius: 5px;
+}
+.card p {
+  font-size: 10px;
+  margin-left: 10px;
+}
+.favoritesLabel {
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+.displayNone {
+  display: none;
+}

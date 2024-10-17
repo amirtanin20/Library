@@ -1,0 +1,18 @@
+.Banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background-color: rgb(58, 58, 58);
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.Banner span {
+  color: blue;
+}
+
+.Banner H2,
+P {
+  color: white;
+}
